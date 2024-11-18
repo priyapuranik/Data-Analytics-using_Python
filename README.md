@@ -2,7 +2,7 @@
 
 **This project involves analyzing hotel booking data using Python and Jupyter. The primary goals are to understand cancellation rates across different countries and to perform a comprehensive analysis of the dataset using data visualization techniques.** <br>
 
-## Data Analysis:
+## Data Analysis
 
 --Examined cancellation rates by state.<br>
 --Analyzed various aspects of hotel booking data, including booking patterns, guest demographics, and seasonal trends.<br>
@@ -20,4 +20,4 @@ And many more charts.
 Follow the steps in the notebook or script to load the data, perform the analysis, and visualize the results.
 
 **MySQL Connection**:
-Make sure to configure your MySQL credentials to connect and save data permanently.
+Make sure to configure MySQL credentials to connect and save data permanently.
